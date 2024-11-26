@@ -7,7 +7,9 @@ referred to as “Bloons".
 The following are the main system we focused on :
 
 -Tower Placement System.
+
 -Upgrade System.
+
 -Bloons Type System.
 -Resource-Management System[also works with the stats tracking 
 system]
