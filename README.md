@@ -17,7 +17,9 @@ The Team:
 2. Christopher J. Ridley = dealt with the Towers Upgrade inventory in depth and level expansion/paths. Also dealt with individual  tower systems.
 3. Kellen Strydom = dealt with the Bloons System specifically the optimization of the Bloon Hit calculations and spawn rates.
 
-Considering each team member dealth with a specifc system of the game, all members contributed to the programming, UI design and communication design of each system , which ended up being synced to make one chosive game.
+Considering each team member dealth with a specifc system of the game, all members contributed to the programming, UI design and communication design of each system , which ended up being synced to make one cohesive game.
+
+For more info on the design decisions that were made for this project, please have a read at the Game Design Document attached.
 
 To download this game, please follow the following steps:
 
